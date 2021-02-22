@@ -57,6 +57,7 @@ In alphabetical order:
 * [Synthesis](http://websynthesis.com/)
 * [TitanHost](https://titanhost.io/)
 * [Titibate](https://titibate.com/)
+* [Topflight](https://topflightagency.com/wordpress-hosting/)
 * [TrulyWP](https://trulywp.com/)
 * [TVC.Net](http://TVC.Net/)
 * [Veerotech](https://www.veerotech.net/)
